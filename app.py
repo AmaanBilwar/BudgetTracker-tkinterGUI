@@ -1,6 +1,8 @@
 
 # Import Module
 from tkinter import *
+from tkinter import ttk
+
 
 # create root window
 root = Tk()
